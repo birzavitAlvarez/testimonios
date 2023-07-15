@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1 className="titulo">
-        Esto es lo que dicen nuestros alumnos sobre freeCodeCamp:
+        Esto es lo que dicen nuestros entrevistados:
       </h1>
       <Testimonio
         nombre="Shawn Wang"
